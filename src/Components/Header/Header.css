@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: #87409c;
+  box-shadow: 0 10px 53px rgba(151, 120, 120, 0.4);
+}
+
+.header__Icons__span {
+  display: flex;
+  justify-content: space-around;
+  width: 20rem;
+}
+
+.header__favorite {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__favorite > span {
+  margin: 0.5rem;
+  color: white;
+}
+.header__Icons {
+  font-size: 2rem !important;
+  cursor: pointer;
+  color: aqua;
+}
+.header__image {
+  border-radius: 50%;
+  height: 3rem;
+  filter: drop-shadow(2px 4px 4px #585858);
+}

@@ -1,0 +1,10 @@
+.favorite__heading {
+  color: white;
+  margin-left: 1rem;
+}
+.favorite__single__planet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

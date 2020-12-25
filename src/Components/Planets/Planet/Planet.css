@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+}
+
+.single-list {
+  background: white;
+  margin: 20px 0;
+  width: 80%;
+  box-shadow: 0px 10px 53px rgba(0, 0, 0, 0.2);
+}
